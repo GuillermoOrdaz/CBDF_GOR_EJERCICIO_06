@@ -1,0 +1,5 @@
+com\example\cam\controllers\ClienteController.class
+com\example\cam\CamApplication.class
+com\example\cam\models\ClienteEntity.class
+com\example\cam\services\ClienteService.class
+com\example\cam\repositories\ClienteRepository.class
